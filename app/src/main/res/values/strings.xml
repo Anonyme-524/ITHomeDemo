@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ITHomeDemo</string>
+    <string name="sousuo">搜索</string>
+    <string name="guanzhu">关注</string>
+    <string name="zuixin">最新</string>
+    <string name="rebang">热榜</string>
+    <string name="reping">热评</string>
+    <string name="jingdu">精读</string>
+    <string name="pingguo">苹果</string>
+    <string name="yuanchuang">原创</string>
+    <string name="zixun">咨询</string>
+    <string name="lapin">辣品</string>
+    <string name="quanzi">圈子</string>
+    <string name="faxian">发现</string>
+    <string name="me">我</string>
+    <string name="itimage" />
+    <string name="itconsulting" />
+    <string name="ittime" />
+    <string name="itcomment" />
+    <string name="pinglun">98</string>
+    <string name="xie">写评论</string>
+</resources>
